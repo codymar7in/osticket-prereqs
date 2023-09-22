@@ -242,8 +242,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - MySQL Password: Password1 (example)
 
 
-  <p>
+<p>
 <img src="https://i.imgur.com/viI1tCm.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 <p>
 
